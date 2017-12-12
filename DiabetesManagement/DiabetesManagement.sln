@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27009.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabetesManagement.Web", "DiabetesManagement\DiabetesManagement.Web.csproj", "{47C122C9-834F-4ACC-9AAF-AEC4A5C7DFA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabetesManagement.Tests", "DiabetesManagement.Tests\DiabetesManagement.Tests.csproj", "{53CA2811-2EDA-48AD-92E0-B5282867011E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabetesManagement.Provider", "DiabetesManagement.Provider\DiabetesManagement.Provider.csproj", "{D6727C75-C2F0-4400-8C24-966843BA111B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabetesManagement.BL", "DiabetesManagement.BL\DiabetesManagement.BL.csproj", "{D7AF8210-BCA1-4092-8F8A-F9F275E53739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabatesManagement.DL", "DiabatesManagement.DL\DiabatesManagement.DL.csproj", "{B2C05ED6-73E0-47C2-B180-672910964CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabatesManagement.Domain", "DiabatesManagement.Domain\DiabatesManagement.Domain.csproj", "{6273C4FA-F315-4EB6-B935-BA382E325F8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{509E3920-3F85-4B8D-88DE-F74BA3F5505C}"
+	ProjectSection(SolutionItems) = preProject
+		eHealth.sql = eHealth.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C122C9-834F-4ACC-9AAF-AEC4A5C7DFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C122C9-834F-4ACC-9AAF-AEC4A5C7DFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C122C9-834F-4ACC-9AAF-AEC4A5C7DFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C122C9-834F-4ACC-9AAF-AEC4A5C7DFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CA2811-2EDA-48AD-92E0-B5282867011E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CA2811-2EDA-48AD-92E0-B5282867011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CA2811-2EDA-48AD-92E0-B5282867011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CA2811-2EDA-48AD-92E0-B5282867011E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6727C75-C2F0-4400-8C24-966843BA111B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6727C75-C2F0-4400-8C24-966843BA111B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6727C75-C2F0-4400-8C24-966843BA111B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6727C75-C2F0-4400-8C24-966843BA111B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AF8210-BCA1-4092-8F8A-F9F275E53739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AF8210-BCA1-4092-8F8A-F9F275E53739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AF8210-BCA1-4092-8F8A-F9F275E53739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AF8210-BCA1-4092-8F8A-F9F275E53739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C05ED6-73E0-47C2-B180-672910964CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C05ED6-73E0-47C2-B180-672910964CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C05ED6-73E0-47C2-B180-672910964CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C05ED6-73E0-47C2-B180-672910964CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6273C4FA-F315-4EB6-B935-BA382E325F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6273C4FA-F315-4EB6-B935-BA382E325F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6273C4FA-F315-4EB6-B935-BA382E325F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6273C4FA-F315-4EB6-B935-BA382E325F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C495A22-5278-47C5-873D-C5FD7F8FB093}
+	EndGlobalSection
+EndGlobal

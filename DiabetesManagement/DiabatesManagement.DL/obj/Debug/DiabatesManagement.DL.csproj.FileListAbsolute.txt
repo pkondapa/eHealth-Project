@@ -1,0 +1,6 @@
+C:\git\Applications\DiabetesManagement\DiabatesManagement.DL\bin\Debug\DiabatesManagement.DL.dll
+C:\git\Applications\DiabetesManagement\DiabatesManagement.DL\bin\Debug\DiabatesManagement.DL.pdb
+C:\git\Applications\DiabetesManagement\DiabatesManagement.DL\obj\Debug\DiabatesManagement.DL.csprojResolveAssemblyReference.cache
+C:\git\Applications\DiabetesManagement\DiabatesManagement.DL\obj\Debug\DiabatesManagement.DL.csproj.CoreCompileInputs.cache
+C:\git\Applications\DiabetesManagement\DiabatesManagement.DL\obj\Debug\DiabatesManagement.DL.dll
+C:\git\Applications\DiabetesManagement\DiabatesManagement.DL\obj\Debug\DiabatesManagement.DL.pdb

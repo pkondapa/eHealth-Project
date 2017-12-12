@@ -1,0 +1,13 @@
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\DiabetesManagement.Provider.dll
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\DiabetesManagement.Provider.pdb
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\DiabatesManagement.Domain.dll
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\Newtonsoft.Json.dll
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\DiabatesManagement.Domain.pdb
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\Newtonsoft.Json.xml
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\obj\Debug\DiabetesManagement.Provider.csprojResolveAssemblyReference.cache
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\obj\Debug\DiabetesManagement.Provider.csproj.CoreCompileInputs.cache
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\obj\Debug\DiabetesManagement.Provider.dll
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\obj\Debug\DiabetesManagement.Provider.pdb
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\HtmlAgilityPack.dll
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\HtmlAgilityPack.pdb
+C:\git\Applications\DiabetesManagement\DiabetesManagement.Provider\bin\Debug\HtmlAgilityPack.xml
